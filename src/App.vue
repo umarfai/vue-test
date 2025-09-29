@@ -1,7 +1,15 @@
-<script setup></script>
-
 <template>
-  <h1>Vue  whatsApp</h1>
+  <div>
+ <h1>Vue Whatsapp</h1>
+  </div>
 </template>
 
-<style scoped></style>
+<script>
+  export default {
+    
+  }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
